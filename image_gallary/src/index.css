@@ -1,0 +1,17 @@
+.masonry-grid {
+  display: -webkit-box; 
+  display: -ms-flexbox; 
+  display: flex;
+  width: auto;
+}
+.masonry-grid_column {
+  padding-left: 40px; 
+  background-clip: padding-box;
+}
+
+.img-fluid {
+  padding-bottom: 8px;
+}
+.masonry-grid_column > div {
+  margin: 15px auto;
+}
